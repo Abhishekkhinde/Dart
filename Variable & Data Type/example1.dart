@@ -7,7 +7,7 @@ void main() {
   num y = 20; // num data type
   print(y);
 
-  num z = 30.5; // num  = num data type store int and float variable
+  num z = 30.5; // num  = num data type store int and float variable 
   print(z);
 
   double a = 10.5; // double data type store floating  variable
