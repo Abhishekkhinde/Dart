@@ -1,6 +1,6 @@
-// writing way 3rd of getter
+// writing way 4th of getter
 
-import 'getter3.dart';
+import 'getter4.dart';
 void main() {
   Demo obj = new Demo(10, "sam", 23.5);
 
