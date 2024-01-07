@@ -12,10 +12,10 @@ class Demo2 extends Demo1 {
 }
 
 void main() {
-  Demo obj1 = Demo2();
+  Demo2 obj1 = Demo2(20);
   Demo1 obj2 = Demo2(10);
 
-  obj2.fun();
+  obj1.fun();
 }
 
 /*

@@ -16,17 +16,6 @@ class Test2 extends Test {
 void main() {
   Test2 obj = Test2(40);
   Test.changeY();
-  print(Test2.y);
+  print(Test.y);
 }
 
-
-/**
- Output :
-
- Error: Member not found: 'y'.
-  print(Test2.y);
-              ^
- */
-
-// the y is not in Test2 class
-//the y is declared in parent class static method , the static method is call it class name 

@@ -33,5 +33,5 @@ OUTPUT :
 // print x = 19
 
 //call fun function
-//  print(this.x)  print parent x: 
+//  print(this.x)  refer intance variable 
 //  print(super.x) access properties of parent constructor and print 

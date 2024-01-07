@@ -2,6 +2,8 @@ class Parent {
   parent() {
     print("In parent Constructor");
   }
+
+  call() {}
 }
 
 class Child extends Parent {
