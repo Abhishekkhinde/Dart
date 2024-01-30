@@ -14,5 +14,4 @@ class Test3 with Demo2 {}
 void main() {
   Test3 obj = new Test3();
   obj.fun2();
-  obj.gun();
 }
